@@ -1,5 +1,8 @@
 # ErrorHandling
-This Solidity program is a simple program that demonstrates the usage of error handling functions in Solidity such as require(), assert() and revert()
+This Solidity program is a simple program that demonstrates the usage of error handling functions in Solidity which are:
+1. require()
+2. assert()
+3. revert()
 
 ## Description
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract contains some test variables. It also contains testing functions which test the funcitonality of each error handling function mentioned above.
